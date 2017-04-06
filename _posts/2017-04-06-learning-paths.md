@@ -2,9 +2,9 @@
 layout: post
 title: "Learning Paths"
 ---
-> *Don't search for all the answers at once. A path is formed by laying one stone at a time.*
+> Don't search for all the answers at once. A path is formed by laying one stone at a time.
 >
-> *The big creepy giant from Twin Peak season 2 episode 1*
+-The big creepy giant from Twin Peaks season 2 episode 1
 
 
 Man, that creepy giant is smart. Truthfully, it's a piece of advice I have to remind myself of constantly. My natural inclination is to dive in head first and consume every bit of information I can when learning a new subject. And it's taken consistent reminding to enforce the idea of writing small bits of code to produce larger solutions, rather than trying to write the whole thing at once and then spending hours debugging when it inevitably doesn't work.
