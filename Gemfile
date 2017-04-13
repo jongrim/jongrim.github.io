@@ -26,4 +26,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Google analytics
-google_analytics: UA-97016115-1
+# google_analytics: UA-97016115-1
+
+# sob
