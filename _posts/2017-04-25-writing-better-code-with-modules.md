@@ -146,8 +146,7 @@ var customerSet = (function () {
     return {
         newCustomer: newCustomer,
         addCustomer: addCustomer,
-        getCustomerByName: getCustomerByName,
-        makeCustomerTable: makeTable
+        getCustomerByName: getCustomerByName
     }
 })();
 ```
@@ -168,7 +167,7 @@ This is a great benefit of modules, and it brings me back to the original three 
 The power of modules is best harnessed when you use them to bundle related code. It wouldn't make sense for me to package code in the `customerSet` example that isn't related to working with the customer data. Instead, I can create multiple modules for all the different bits of functionality needed throughout an application.
 
 ### Modules keep our namespace clean
-Modules give us a way to hide unnecessary details and to isolate variables and functions from other code, thus preventing potential naming collisions. Instead, we get one variable in our global scope, and we can reference the returned parameters using a convenient dot notation. This also allows the developer to determine what parts of a module should be publicly visible, and which parts should be private. All other code will just use the API.
+Modules give us a way to hide unnecessary details and to isolate variables and functions from other code, thus preventing potential naming collisions. Instead, we get one variable in our global scope, and we can reference the returned references using a convenient dot notation. These publicly available references make up the modules API, and allow other modules and code to use its functionality. This frees the developer to determine what parts of a module should be publicly visible, and which parts should be private.
 
 ### Modules are a great design tool
 We can use modules to build reusable bits of code. This helps us follow principles such as DRY, and makes the code more maintainable. We can build a module that provides a specific piece of functionality, and then leverage that everywhere else, rather than recreating it each time.
