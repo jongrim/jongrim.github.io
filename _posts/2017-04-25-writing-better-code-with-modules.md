@@ -172,6 +172,8 @@ Modules give us a way to hide unnecessary details and to isolate variables and f
 ### Modules are a great design tool
 We can use modules to build reusable bits of code. This helps us follow principles such as DRY, and makes the code more maintainable. We can build a module that provides a specific piece of functionality, and then leverage that everywhere else, rather than recreating it each time.
 
+
+
 ---
 
 I hope this has been informative, and you can see how modules can really help you write cleaner, better code. This was a very brief intro to the topic. There are many more facets to consider, and there are even variations on modules that you can learn about (for instance, my example above is what's called the Revealing Module pattern). Additionally, modules are just one of many different design patterns out there.
