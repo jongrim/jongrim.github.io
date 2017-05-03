@@ -5,8 +5,8 @@ permalink: /projects/
 ---
 Below is a list of projects I am currently working on or have completed. Links are provided to view a more detailed project page which includes info on the project, source code snippets, and of course links to the full source code and a live version of the application if available. This list is updated regularly so check back often!
 
-###[Basic Portfolio Site](/projects/basic-portfolio)
-A sample porfolio site. This was the first assignment given at the code camp, and while I like the site I already have, I think this one looks pretty good too! View the **[project page](/projects/basic-portfolio)**, the **[source code]((https://github.com/jongrim/Basic-Portfolio)**, or **[view it live](https://jongrim.github.io/Basic-Portfolio)**
+### [Basic Portfolio Site](/projects/basic-portfolio)
+A sample porfolio site. This was the first assignment given at the code camp, and while I like the site I already have, I think this one looks pretty good too! View the **[project page](/projects/basic-portfolio)**, the **[source code](https://github.com/jongrim/Basic-Portfolio)**, or **[view it live](https://jongrim.github.io/Basic-Portfolio)**
 
 ### [Simple To-Do](/projects/simple-todo)
 A simple, and easy to use, to-do app that remembers your items across sessions! View the **[project page](/projects/simple-todo)**, the **[source code](https://github.com/jongrim/simple-todo)**, or **[view it live](https://jongrim.github.io/simple-todo)**.
