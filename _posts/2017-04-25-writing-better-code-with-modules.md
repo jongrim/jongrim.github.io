@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Writing Better Code with Modules"
-categories: javascript design patterns
+tags: javascript design patterns
 ---
 
 I was recently introduced to modular JavaScript and it has changed my worldview. 
