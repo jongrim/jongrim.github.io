@@ -1,5 +1,5 @@
 ---
-title: An Onslaught of Portfolios
+title: The Portfolio Variety Hour
 layout: project
 permalink: /projects/portfolios
 tags: web design
