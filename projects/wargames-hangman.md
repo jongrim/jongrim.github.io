@@ -1,7 +1,7 @@
 ---
-title: Simple To-Do
+title: WarGames Hangman
 layout: project
-permalink: /projects/simple-todo
+permalink: /projects/wargames-hangman
 tags: javascript
 ---
 Play it [live](https://jongrim.github.io/wargames-hangman).
