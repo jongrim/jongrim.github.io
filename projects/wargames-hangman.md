@@ -4,7 +4,7 @@ layout: project
 permalink: /projects/wargames-hangman
 tags: javascript
 ---
-Play it [live](https://jongrim.github.io/wargames-hangman).
+Ah, who doesn't love the classic game, hangman? For my version, I chose to use the theme of WarGame, the classic 80's movie about how a teenage hacker almost starts World War III. My design goal was to make it somewhat like the play was actually playing against the supercomputer, WOPR, so you'll notice a fun intro where letters are written one at a time like in the movie. Play it [live](https://jongrim.github.io/wargames-hangman).
 
 ### Project Code
 [GitHub](https://github.com/jongrim/wargames-hangman)
