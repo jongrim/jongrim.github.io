@@ -9,7 +9,7 @@ Below is a list of projects I am currently working on or have completed. Links a
 I got tired of having to open a browser and search for the weather, so I wrote a command line tool to allow me to do it from there using the OpenWeatherMap API. Check out the **[project page](/projects/whats-the-weather)** or the **[source code](https://github.com/jongrim/whats-the-weather)**.
 
 ### [WarGames Hangman](/projects/wargames-hangman)
-A WarGames themed Hangman game. Be sure to check out the [source code](https://github.jongrim/wargames-hangman) because you really have to see how the modules are written to apppreciate the object-oriented approach here. You can also view the **[project page](projects/wargames-hangman)** or **[play the game](https://jongrim.github.io/wargames-hangman)**.
+A WarGames themed Hangman game. Be sure to check out the [source code](https://github.jongrim/wargames-hangman) because you really have to see how the modules are written to apppreciate the object-oriented approach here. You can also view the **[project page](/projects/wargames-hangman)** or **[play the game](https://jongrim.github.io/wargames-hangman)**.
 
 ### [The Portfolio Variety Hour](/projects/portfolios)
 A collection of portfolios done using various tools including responsive layouts and Bootstrap. View the **[project page](/projects/portfolios)** or **[view them live](https://jongrim.github.io/Basic-Portfolio)** (you can toggle between the various portfolios from the live version).
