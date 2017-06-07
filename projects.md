@@ -5,6 +5,9 @@ permalink: /projects/
 ---
 Below is a list of projects I am currently working on or have completed. Links are provided to view a more detailed project page which includes info on the project, source code snippets, and of course links to the full source code and a live version of the application if available. This list is updated regularly so check back often!
 
+### [Giphy](/projects/giphy)
+Looking for a gif of a dancing zebra? Well, I'm sure that's out there, just search for it [here](https://jongrim.github.io/giphy). Check out the **[project page](/projects/giphy)**, the **[source code](https://github.com/jongrim/giphy)**, or **[just use it](https://jongrim.github.io/giphy)**. 
+
 ### [Whats-the-Weather](/projects/whats-the-weather)
 I got tired of having to open a browser and search for the weather, so I wrote a command line tool to allow me to do it from there using the OpenWeatherMap API. Check out the **[project page](/projects/whats-the-weather)** or the **[source code](https://github.com/jongrim/whats-the-weather)**.
 
