@@ -13,7 +13,7 @@ Here are the various site links:
 
 ### Project code
 - [Basic portfolio](https://github.com/jongrim/Basic-Portfolio)
-- [Responsive portfolio](https://github.com/jongrim/responsive-ortfolio)
+- [Responsive portfolio](https://github.com/jongrim/responsive-portfolio)
 - [Bootstrap portfolio](https://github.com/jongrim/bootstrap-portfolio)
 
 ### Languages
